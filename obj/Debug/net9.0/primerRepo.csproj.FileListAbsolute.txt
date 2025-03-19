@@ -1,0 +1,14 @@
+C:\Users\manch\onedrive\escritorio\proyectosC#\doo\PrimerRepo\bin\Debug\net9.0\primerRepo.exe
+C:\Users\manch\onedrive\escritorio\proyectosC#\doo\PrimerRepo\bin\Debug\net9.0\primerRepo.deps.json
+C:\Users\manch\onedrive\escritorio\proyectosC#\doo\PrimerRepo\bin\Debug\net9.0\primerRepo.runtimeconfig.json
+C:\Users\manch\onedrive\escritorio\proyectosC#\doo\PrimerRepo\bin\Debug\net9.0\primerRepo.dll
+C:\Users\manch\onedrive\escritorio\proyectosC#\doo\PrimerRepo\bin\Debug\net9.0\primerRepo.pdb
+C:\Users\manch\onedrive\escritorio\proyectosC#\doo\PrimerRepo\obj\Debug\net9.0\primerRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manch\onedrive\escritorio\proyectosC#\doo\PrimerRepo\obj\Debug\net9.0\primerRepo.AssemblyInfoInputs.cache
+C:\Users\manch\onedrive\escritorio\proyectosC#\doo\PrimerRepo\obj\Debug\net9.0\primerRepo.AssemblyInfo.cs
+C:\Users\manch\onedrive\escritorio\proyectosC#\doo\PrimerRepo\obj\Debug\net9.0\primerRepo.csproj.CoreCompileInputs.cache
+C:\Users\manch\onedrive\escritorio\proyectosC#\doo\PrimerRepo\obj\Debug\net9.0\primerRepo.dll
+C:\Users\manch\onedrive\escritorio\proyectosC#\doo\PrimerRepo\obj\Debug\net9.0\refint\primerRepo.dll
+C:\Users\manch\onedrive\escritorio\proyectosC#\doo\PrimerRepo\obj\Debug\net9.0\primerRepo.pdb
+C:\Users\manch\onedrive\escritorio\proyectosC#\doo\PrimerRepo\obj\Debug\net9.0\primerRepo.genruntimeconfig.cache
+C:\Users\manch\onedrive\escritorio\proyectosC#\doo\PrimerRepo\obj\Debug\net9.0\ref\primerRepo.dll
