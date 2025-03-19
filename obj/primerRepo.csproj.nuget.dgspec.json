@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\manch\\onedrive\\escritorio\\proyectosC#\\doo\\PrimerRepo\\primerRepo.csproj": {}
+    "C:\\Users\\manch\\OneDrive\\Escritorio\\proyectosC#\\doo\\primerRepo\\primerRepo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\manch\\onedrive\\escritorio\\proyectosC#\\doo\\PrimerRepo\\primerRepo.csproj": {
+    "C:\\Users\\manch\\OneDrive\\Escritorio\\proyectosC#\\doo\\primerRepo\\primerRepo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\manch\\onedrive\\escritorio\\proyectosC#\\doo\\PrimerRepo\\primerRepo.csproj",
+        "projectUniqueName": "C:\\Users\\manch\\OneDrive\\Escritorio\\proyectosC#\\doo\\primerRepo\\primerRepo.csproj",
         "projectName": "primerRepo",
-        "projectPath": "C:\\Users\\manch\\onedrive\\escritorio\\proyectosC#\\doo\\PrimerRepo\\primerRepo.csproj",
+        "projectPath": "C:\\Users\\manch\\OneDrive\\Escritorio\\proyectosC#\\doo\\primerRepo\\primerRepo.csproj",
         "packagesPath": "C:\\Users\\manch\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\manch\\onedrive\\escritorio\\proyectosC#\\doo\\PrimerRepo\\obj\\",
+        "outputPath": "C:\\Users\\manch\\OneDrive\\Escritorio\\proyectosC#\\doo\\primerRepo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\manch\\AppData\\Roaming\\NuGet\\NuGet.Config"
