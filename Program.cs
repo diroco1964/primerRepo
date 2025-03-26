@@ -1,24 +1,26 @@
 ﻿using System;
 using System.Dynamic;
 
-public class Cassette{
+public class FormatoMusical{
 
     //ATRIBUTOS 
-    public string NombreAlbum {get; set;}
-    public string NombreArtista {get; set;}
-    public int  NumEdicion {get; set;}
-    public double Duracion {get; set;}
+    public string tipo{get; set;}
+    public string nombreAlbum {get; set;}
+    public string nombreArtista {get; set;}
+    public int  numEdicion {get; set;}
+    public double duracion {get; set;}
 
     //METODOS
 
-    public void MostrarInformacionCassette()
+    public void MostrarInformacionEdicion()
     {
-        Console.WriteLine($"Cassette:{NombreAlbum} - Artista:{NombreArtista}");
-        Console.WriteLine($"Duración:{Duracion}");
+        Console.WriteLine($"Esta edición vienen en formato{tipo}");
+        Console.WriteLine($"Album:{nombreAlbum} - Artista:{nombreArtista}");
+        Console.WriteLine($"Duración:{duracion}");
     }
-    public void ReproducirCassette()
+    public void ReproducirFormato()
     {
-        Console.WriteLine($"Estas Escuchando{NombreAlbum}");
+        Console.WriteLine($"Estas Escuchando{nombreAlbum}");
     }
 
 }
@@ -26,33 +28,33 @@ public class Cassette{
 public class Fanzine{
     //ATRIBUTOS
 
-    public string Titulo {get;set;}
-    public string  NombreAutor {get; set;}
-    public int NumPaginas{get; set;}
-    public DateTime FechaPublicacion{get; set;}
+    public string titulo {get;set;}
+    public string  nombreAutor {get; set;}
+    public int numPaginas{get; set;}
+    public DateTime fechaPublicacion{get; set;}
 
     //METODOS
 
         public void MostrarInformacionFanzine()
     {
-        Console.WriteLine($"Fanzine:{Titulo} - Autor:{NombreAutor}");
-        Console.WriteLine($"Fecha Publicacion:{FechaPublicacion}");
-        Console.WriteLine($"Número de páginas {NumPaginas}");
+        Console.WriteLine($"Fanzine:{titulo} - Autor:{nombreAutor}");
+        Console.WriteLine($"Fecha Publicacion:{fechaPublicacion}");
+        Console.WriteLine($"Número de páginas {numPaginas}");
     }
         public void LeerFanzine()
         {
-            Console.WriteLine($"Estas Leyendo el {Titulo}");
+            Console.WriteLine($"Estas Leyendo el {titulo}");
         }
 
         public void IrAPagina(int pagina)
 {
-    if (pagina > 0 && pagina <= NumPaginas)  
+    if (pagina > 0 && pagina <= numPaginas)  
     {
-        Console.WriteLine($"Estás en la página {pagina} de '{Titulo}'.");
+        Console.WriteLine($"Estás en la página {pagina} de '{titulo}'.");
     }
     else
     {
-        Console.WriteLine($"¡Error! El fanzine solo tiene {NumPaginas} páginas. No existe la página {pagina}.");
+        Console.WriteLine($"¡Error! El fanzine solo tiene {numPaginas} páginas. No existe la página {pagina}.");
     }
 }
 
